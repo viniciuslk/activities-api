@@ -1,0 +1,9 @@
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/obj/Debug/netstandard2.1/Domain.pdb

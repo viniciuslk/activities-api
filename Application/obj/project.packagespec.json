@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Application/Application.csproj",
+    "projectName": "Application",
+    "projectPath": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Application/Application.csproj",
+    "outputPath": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Application/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "projectReferences": {
+          "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/Domain.csproj": {
+            "projectPath": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/Domain.csproj"
+          },
+          "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/Persistence.csproj": {
+            "projectPath": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/Persistence.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.1": {
+      "dependencies": {
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[8.1.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "NETStandard.Library": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+    }
+  }
+}

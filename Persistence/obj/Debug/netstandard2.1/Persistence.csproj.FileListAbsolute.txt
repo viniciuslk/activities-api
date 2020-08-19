@@ -1,0 +1,12 @@
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netstandard2.1/Persistence.csprojAssemblyReference.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfoInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfo.cs
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CoreCompileInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netstandard2.1/Persistence.deps.json
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netstandard2.1/Persistence.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netstandard2.1/Domain.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netstandard2.1/Domain.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CopyComplete
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netstandard2.1/Persistence.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netstandard2.1/Persistence.pdb
