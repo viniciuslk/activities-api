@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DP7CcEcmJiaarBcKdZQlNPnuscnSzUlTIz9FwpOQCeIdjMVVze7rZjhzTGvb2N1WdNAiLWfYQnYn2YbXSWJ1BA==",
+  "dgSpecHash": "cFbfXEIbI4Ux18TwZ42E2uSsoNwIjQxr3oPjUBVk5y79nHHVATVxtkGGvzcJHcCCBvCvJcc5E0NjgwLCvAVETQ==",
   "success": true,
   "projectFilePath": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
@@ -29,17 +29,16 @@
     "/Users/viniciuslohmannkieling/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
-    "/Users/viniciuslohmannkieling/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.2/sqlitepclraw.provider.e_sqlite3.2.0.2.nupkg.sha512",
-    "/Users/viniciuslohmannkieling/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.2/sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "/Users/viniciuslohmannkieling/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
-    "/Users/viniciuslohmannkieling/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.1/system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512",
     "/Users/viniciuslohmannkieling/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512",
-    "/Users/viniciuslohmannkieling/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

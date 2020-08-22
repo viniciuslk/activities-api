@@ -1,0 +1,12 @@
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netcoreapp3.0/Persistence.deps.json
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netcoreapp3.0/Persistence.csprojAssemblyReference.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfoInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netcoreapp3.0/Persistence.AssemblyInfo.cs
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netcoreapp3.0/Persistence.csproj.CopyComplete
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netcoreapp3.0/Persistence.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Persistence/obj/Debug/netcoreapp3.0/Persistence.pdb

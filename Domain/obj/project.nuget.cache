@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BmPhV1wkjLIlcOjHRYWBE8YrVlS0ofpQKmq3fGvWerLnEcAH681BKC29sjTpTtIJvVXWvd8YbwpkZVy4Weps2A==",
+  "dgSpecHash": "l7E0kbzo8a8iqUdB2YBzyuxg+JwFiibEaIaT95Dyv765dJdSnBmnx8zBQ2BqxjlNBTMFXoipQHtQ1TOqAGZNZA==",
   "success": true,
   "projectFilePath": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

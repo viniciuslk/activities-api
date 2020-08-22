@@ -302,6 +302,47 @@
           "API.dll": {}
         }
       },
+      "FluentValidation/9.1.3": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.1.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.AspNetCore/9.1.3": {
+        "dependencies": {
+          "FluentValidation": "9.1.3",
+          "FluentValidation.DependencyInjectionExtensions": "9.1.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.1.3.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/9.1.3": {
+        "dependencies": {
+          "FluentValidation": "9.1.3",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.1.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {}
+        }
+      },
       "MediatR/8.1.0": {
         "runtime": {
           "lib/netstandard2.1/MediatR.dll": {
@@ -784,6 +825,7 @@
       "Application/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
+          "FluentValidation.AspNetCore": "9.1.3",
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "Persistence": "1.0.0"
         },
@@ -2430,6 +2472,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/9.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3YctqJSe80I+lQqdhW3WKni6l3vHMzne1KK93lb/GN0BkEy7x3QNnVh+9qFkvDPn806L+8skpI0+dhj/w0BDuA==",
+      "path": "fluentvalidation/9.1.3",
+      "hashPath": "fluentvalidation.9.1.3.nupkg.sha512"
+    },
+    "FluentValidation.AspNetCore/9.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I4k3nrvyAyhreYVqzvMZDPh5mzUh1dZmg3iksm3e3wxSuyf/OuR5v+87Qo5Gs5vyRh4CErcU4lfzUDq81EoDGw==",
+      "path": "fluentvalidation.aspnetcore/9.1.3",
+      "hashPath": "fluentvalidation.aspnetcore.9.1.3.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/9.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TldPfc0PeKqPgDhKn3+c2Ib6AUTnfXlL11tHHTEgSkUE6+t5AxCLf/CBjtaOOliztyBdwqjlgKFiMh7OgeCaFw==",
+      "path": "fluentvalidation.dependencyinjectionextensions/9.1.3",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.1.3.nupkg.sha512"
     },
     "MediatR/8.1.0": {
       "type": "package",
