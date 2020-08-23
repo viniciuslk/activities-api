@@ -1,0 +1,16 @@
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.deps.json
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csprojAssemblyReference.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.AssemblyInfo.cs
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Application.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Persistence.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Application.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netcoreapp3.1/Persistence.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csproj.CopyComplete

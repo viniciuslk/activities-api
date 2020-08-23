@@ -1,0 +1,9 @@
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.deps.json
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/bin/Debug/netstandard2.0/Infrastructure.pdb
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.csprojAssemblyReference.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.AssemblyInfo.cs
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.dll
+/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Infrastructure/obj/Debug/netstandard2.0/Infrastructure.pdb

@@ -1,11 +1,34 @@
 {
   "version": 2,
-  "dgSpecHash": "l7E0kbzo8a8iqUdB2YBzyuxg+JwFiibEaIaT95Dyv765dJdSnBmnx8zBQ2BqxjlNBTMFXoipQHtQ1TOqAGZNZA==",
+  "dgSpecHash": "g8fkZ7t+teGG+WY0cDizspeUInZesQb1Dhy0q1AHrEUtXBeUmicjo8PP8wLqPwUUpyUTQFfkPRv3gkiBdsXJCA==",
   "success": true,
   "projectFilePath": "/Users/viniciuslohmannkieling/Developer/Projects/Labs/ReactivitiesApi/Domain/Domain.csproj",
   "expectedPackageFiles": [
-    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.7/microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.7/microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/3.1.7/microsoft.aspnetcore.identity.entityframeworkcore.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.entityframeworkcore/3.1.7/microsoft.entityframeworkcore.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.7/microsoft.entityframeworkcore.abstractions.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.7/microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.7/microsoft.entityframeworkcore.relational.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.7/microsoft.extensions.caching.abstractions.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.caching.memory/3.1.7/microsoft.extensions.caching.memory.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.configuration/3.1.7/microsoft.extensions.configuration.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.7/microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.configuration.binder/3.1.7/microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.7/microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.7/microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.identity.core/3.1.7/microsoft.extensions.identity.core.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.identity.stores/3.1.7/microsoft.extensions.identity.stores.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.logging/3.1.7/microsoft.extensions.logging.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.7/microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.options/3.1.7/microsoft.extensions.options.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/microsoft.extensions.primitives/3.1.7/microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/viniciuslohmannkieling/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
